@@ -1,2 +1,2 @@
-# Atividade-Orientada
+# Atividades
 trabalho do dialogo semanal
