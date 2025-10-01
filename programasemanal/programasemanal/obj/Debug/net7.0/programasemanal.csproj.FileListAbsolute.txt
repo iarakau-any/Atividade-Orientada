@@ -1,0 +1,15 @@
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\bin\Debug\net7.0\programasemanal.exe
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\bin\Debug\net7.0\programasemanal.deps.json
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\bin\Debug\net7.0\programasemanal.runtimeconfig.json
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\bin\Debug\net7.0\programasemanal.dll
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\bin\Debug\net7.0\programasemanal.pdb
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.csproj.AssemblyReference.cache
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.GeneratedMSBuildEditorConfig.editorconfig
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.AssemblyInfoInputs.cache
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.AssemblyInfo.cs
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.csproj.CoreCompileInputs.cache
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.dll
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\refint\programasemanal.dll
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.pdb
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\programasemanal.genruntimeconfig.cache
+D:\iara\Atividade-01-Console-2025-Iara\programasemanal\programasemanal\obj\Debug\net7.0\ref\programasemanal.dll
